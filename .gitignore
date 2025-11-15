@@ -1,0 +1,30 @@
+# VSCode
+.vscode/
+
+# CMake build directories
+build/
+build*/
+
+# CMake cache files (if someone misconfigures)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Binary outputs
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug symbols
+*.pdb
+*.obj
+*.o
+
+
+# General
+*.log
+*.tmp
