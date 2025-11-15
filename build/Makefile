@@ -129,29 +129,29 @@ RTSChess/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RTSChess.dir/build.make CMakeFiles/RTSChess.dir/build
 .PHONY : RTSChess/fast
 
-src/game.o: src/game.cpp.o
-.PHONY : src/game.o
+src/TextureManager.o: src/TextureManager.cpp.o
+.PHONY : src/TextureManager.o
 
 # target to build an object file
-src/game.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/RTSChess.dir/build.make CMakeFiles/RTSChess.dir/src/game.cpp.o
-.PHONY : src/game.cpp.o
+src/TextureManager.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RTSChess.dir/build.make CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o
+.PHONY : src/TextureManager.cpp.o
 
-src/game.i: src/game.cpp.i
-.PHONY : src/game.i
+src/TextureManager.i: src/TextureManager.cpp.i
+.PHONY : src/TextureManager.i
 
 # target to preprocess a source file
-src/game.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/RTSChess.dir/build.make CMakeFiles/RTSChess.dir/src/game.cpp.i
-.PHONY : src/game.cpp.i
+src/TextureManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RTSChess.dir/build.make CMakeFiles/RTSChess.dir/src/TextureManager.cpp.i
+.PHONY : src/TextureManager.cpp.i
 
-src/game.s: src/game.cpp.s
-.PHONY : src/game.s
+src/TextureManager.s: src/TextureManager.cpp.s
+.PHONY : src/TextureManager.s
 
 # target to generate assembly for a file
-src/game.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/RTSChess.dir/build.make CMakeFiles/RTSChess.dir/src/game.cpp.s
-.PHONY : src/game.cpp.s
+src/TextureManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RTSChess.dir/build.make CMakeFiles/RTSChess.dir/src/TextureManager.cpp.s
+.PHONY : src/TextureManager.cpp.s
 
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
@@ -186,9 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... RTSChess"
-	@echo "... src/game.o"
-	@echo "... src/game.i"
-	@echo "... src/game.s"
+	@echo "... src/TextureManager.o"
+	@echo "... src/TextureManager.i"
+	@echo "... src/TextureManager.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

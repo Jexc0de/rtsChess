@@ -83,30 +83,30 @@ CMakeFiles/RTSChess.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RTSChess.dir/src/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jex/Desktop/C++/rtsChess/src/main.cpp -o CMakeFiles/RTSChess.dir/src/main.cpp.s
 
-CMakeFiles/RTSChess.dir/src/game.cpp.o: CMakeFiles/RTSChess.dir/flags.make
-CMakeFiles/RTSChess.dir/src/game.cpp.o: /home/jex/Desktop/C++/rtsChess/src/game.cpp
-CMakeFiles/RTSChess.dir/src/game.cpp.o: CMakeFiles/RTSChess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jex/Desktop/C++/rtsChess/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RTSChess.dir/src/game.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RTSChess.dir/src/game.cpp.o -MF CMakeFiles/RTSChess.dir/src/game.cpp.o.d -o CMakeFiles/RTSChess.dir/src/game.cpp.o -c /home/jex/Desktop/C++/rtsChess/src/game.cpp
+CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o: CMakeFiles/RTSChess.dir/flags.make
+CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o: /home/jex/Desktop/C++/rtsChess/src/TextureManager.cpp
+CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o: CMakeFiles/RTSChess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jex/Desktop/C++/rtsChess/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o -MF CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o.d -o CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o -c /home/jex/Desktop/C++/rtsChess/src/TextureManager.cpp
 
-CMakeFiles/RTSChess.dir/src/game.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RTSChess.dir/src/game.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jex/Desktop/C++/rtsChess/src/game.cpp > CMakeFiles/RTSChess.dir/src/game.cpp.i
+CMakeFiles/RTSChess.dir/src/TextureManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RTSChess.dir/src/TextureManager.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jex/Desktop/C++/rtsChess/src/TextureManager.cpp > CMakeFiles/RTSChess.dir/src/TextureManager.cpp.i
 
-CMakeFiles/RTSChess.dir/src/game.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RTSChess.dir/src/game.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jex/Desktop/C++/rtsChess/src/game.cpp -o CMakeFiles/RTSChess.dir/src/game.cpp.s
+CMakeFiles/RTSChess.dir/src/TextureManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RTSChess.dir/src/TextureManager.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jex/Desktop/C++/rtsChess/src/TextureManager.cpp -o CMakeFiles/RTSChess.dir/src/TextureManager.cpp.s
 
 # Object files for target RTSChess
 RTSChess_OBJECTS = \
 "CMakeFiles/RTSChess.dir/src/main.cpp.o" \
-"CMakeFiles/RTSChess.dir/src/game.cpp.o"
+"CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o"
 
 # External object files for target RTSChess
 RTSChess_EXTERNAL_OBJECTS =
 
 RTSChess: CMakeFiles/RTSChess.dir/src/main.cpp.o
-RTSChess: CMakeFiles/RTSChess.dir/src/game.cpp.o
+RTSChess: CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o
 RTSChess: CMakeFiles/RTSChess.dir/build.make
 RTSChess: /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1
 RTSChess: /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1

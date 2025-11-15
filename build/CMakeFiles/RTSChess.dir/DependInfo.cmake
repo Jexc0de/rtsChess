@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/jex/Desktop/C++/rtsChess/src/game.cpp" "CMakeFiles/RTSChess.dir/src/game.cpp.o" "gcc" "CMakeFiles/RTSChess.dir/src/game.cpp.o.d"
+  "/home/jex/Desktop/C++/rtsChess/src/TextureManager.cpp" "CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o" "gcc" "CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o.d"
   "/home/jex/Desktop/C++/rtsChess/src/main.cpp" "CMakeFiles/RTSChess.dir/src/main.cpp.o" "gcc" "CMakeFiles/RTSChess.dir/src/main.cpp.o.d"
   )
 

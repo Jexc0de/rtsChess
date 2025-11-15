@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/RTSChess.dir/src/game.cpp.o"
-  "CMakeFiles/RTSChess.dir/src/game.cpp.o.d"
+  "CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o"
+  "CMakeFiles/RTSChess.dir/src/TextureManager.cpp.o.d"
   "CMakeFiles/RTSChess.dir/src/main.cpp.o"
   "CMakeFiles/RTSChess.dir/src/main.cpp.o.d"
   "RTSChess"

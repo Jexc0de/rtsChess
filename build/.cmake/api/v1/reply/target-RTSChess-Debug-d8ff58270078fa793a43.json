@@ -135,7 +135,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/game.cpp",
+			"path" : "src/TextureManager.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

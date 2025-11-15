@@ -9,6 +9,7 @@ include_directories(include)
 add_executable( RTSChess 
 
 src/main.cpp
+src/TextureManager.cpp
 
 )
 
