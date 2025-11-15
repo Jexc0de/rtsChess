@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/RTSChess.dir/src/main.cpp.o CMakeFiles/RTSChess.dir/src/game.cpp.o -o RTSChess  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1 

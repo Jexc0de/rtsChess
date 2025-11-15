@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/jex/Desktop/C++/rtsChess/build",
+  "command": "/usr/bin/c++  -I/home/jex/Desktop/C++/rtsChess/include -g -std=gnu++17 -o CMakeFiles/RTSChess.dir/src/main.cpp.o -c /home/jex/Desktop/C++/rtsChess/src/main.cpp",
+  "file": "/home/jex/Desktop/C++/rtsChess/src/main.cpp",
+  "output": "CMakeFiles/RTSChess.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/jex/Desktop/C++/rtsChess/build",
+  "command": "/usr/bin/c++  -I/home/jex/Desktop/C++/rtsChess/include -g -std=gnu++17 -o CMakeFiles/RTSChess.dir/src/game.cpp.o -c /home/jex/Desktop/C++/rtsChess/src/game.cpp",
+  "file": "/home/jex/Desktop/C++/rtsChess/src/game.cpp",
+  "output": "CMakeFiles/RTSChess.dir/src/game.cpp.o"
+}
+]

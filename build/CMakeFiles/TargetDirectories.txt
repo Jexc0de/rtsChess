@@ -1,0 +1,3 @@
+/home/jex/Desktop/C++/rtsChess/build/CMakeFiles/RTSChess.dir
+/home/jex/Desktop/C++/rtsChess/build/CMakeFiles/edit_cache.dir
+/home/jex/Desktop/C++/rtsChess/build/CMakeFiles/rebuild_cache.dir
